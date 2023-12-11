@@ -10,6 +10,6 @@ voix par *yves montand*
 2. une ella qui ecoutait taylor swift
 3. les eleves ou ils ne faut pas etre
 
-   ![trying to put in an image](https://github.com/annaside/hello-world/assets/153514130/aa7e4550-d4d7-43a6-98f0-74cf9e540948)
+   ![Impression, soleil levant par Claude Monet](https://github.com/annaside/hello-world/assets/153514130/aa7e4550-d4d7-43a6-98f0-74cf9e540948)
 
 
