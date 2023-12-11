@@ -19,5 +19,5 @@ code:
 
 it is a ~~cult~~ religion
 
-==ella== is a ==taylor swift== theologist
+note: ==ella== is a ==taylor swift== theologist
 
