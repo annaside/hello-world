@@ -15,8 +15,9 @@ voix par *yves montand*
 ---
 
 code:
-`System.out.println("==ella== is a ==taylor swift== theologist");`
+`System.out.println("ella is a taylor swift theologist");`
 
 it is a ~~cult~~ religion
 
+==ella== is a ==taylor swift== theologist
 
